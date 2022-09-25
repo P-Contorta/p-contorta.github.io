@@ -1,1 +1,3 @@
-# p-contorta.github.io
+# Work in progress...
+
+A place for random musing about software and people.
