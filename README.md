@@ -1,4 +1,4 @@
-# Work in progress...
+# Work in progress
 
 A place for random musing about software and people.
 
