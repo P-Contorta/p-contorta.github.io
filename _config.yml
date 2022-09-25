@@ -4,4 +4,5 @@ description: >
 show_excerpts: false
 minima:
   skin: dark
+  date_format: "%b %-d, %Y"
 theme: minima
