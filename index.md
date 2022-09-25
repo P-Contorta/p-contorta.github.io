@@ -1,3 +1,3 @@
 ## Posts
 
-1. [Hello World](blog/hello-world.md) - published 9/25/2022
+1. [Hello World](Blog/hello-world.md) - published 9/25/2022
