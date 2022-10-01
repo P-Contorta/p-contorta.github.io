@@ -96,7 +96,7 @@ categories: meaning-of-life 42 hitch-hikers-guide-to-the-galaxy
 
 ## 6 x 7 = 42
 Maths are hard. Imagine all the different ways we could get the answer 42? 
-`6 x 7 = 42`, `2 x 26 = 42`, `84/2 = 42`. Just wow! 
+`6 x 7 = 42`, `2 x 21 = 42`, `84/2 = 42`. Just wow! 
 
 ```
 
