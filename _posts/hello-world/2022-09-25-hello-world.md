@@ -34,14 +34,16 @@ In addition to choosing the theme you can set a title and description for your b
 ```yaml
 title: My Really Cool Blog Title
 description: >
-    A description of what the blog is about and something compelling for the reader.
+    A description of what the blog is about and something compelling 
+    for the reader.
 ```
 
 The final `_config.yaml` will look something like this:
 ```yaml
 title: My Really Cool Blog Title
 description: >
-    A description of what the blog is about and something compelling for the reader.
+    A description of what the blog is about and something compelling 
+    for the reader.
 theme: minima
 ```
 
@@ -93,7 +95,8 @@ categories: meaning-of-life 42 hitch-hikers-guide-to-the-galaxy
 ---
 
 ## 6 x 7 = 42
-Maths are hard. Imagine all the different ways we could get the answer 42? `6 x 7 = 42`, `2 x 26 = 42`, `84/2 = 42`. Just wow! 
+Maths are hard. Imagine all the different ways we could get the answer 42? 
+`6 x 7 = 42`, `2 x 26 = 42`, `84/2 = 42`. Just wow! 
 
 ```
 
