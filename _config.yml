@@ -1,10 +1,6 @@
 title: A Life in Progress
 description: >
   A collection of thoughts and opinions 
-show_excerpts: false
-minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
 plugins:
   - jemoji
 theme: minima
