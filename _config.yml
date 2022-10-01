@@ -1,11 +1,6 @@
 title: A Life in Progress
 description: >
   A collection of thoughts and opinions 
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
 plugins:
   - jemoji
 theme: minima
