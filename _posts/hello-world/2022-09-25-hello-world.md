@@ -10,11 +10,11 @@ Github pages is a relatively simple way to turn a github repository into a websi
 ### Getting Your Sub-domain
 Begin by logging into your [github.com](https://github.com) account. In the top right corner there is a plus icon. Click on it and select the `New Repository` option.
 
-<img name="create-new-repo-dropdown" src="{{site.url}}{{/images/hello-world/new-repo-menu.jpg}}">
+<img name="create-new-repo-dropdown" src="{{site.url}}/images/hello-world/new-repo-menu.jpg">
 
 Next under `Repository name` set the name to be `your-username.github.io`. For example this blog is hosted at [p-contorta.github.io](https://p-contorta.github.io). When you're ready hit the `Create repository button at bottom of the page`
 
-<img name="create-repo-form" src="{{site.url}}{{/images/hello-world/create-repo.jpg}}">
+<img name="create-repo-form" src="{{site.url}}/images/hello-world/create-repo.jpg">
 
 Navigate to the `https://your-username.github.io` and within a minute or two you should see a simple webpage pop up.
 
