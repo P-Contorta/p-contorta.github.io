@@ -4,7 +4,7 @@ title: "Creating a Blog with Github Pages and Jekyll"
 categories: software how-to blog
 ---
 
-## Hello World - Setting up Your Own Blog
+## Setting up Your Own Blog
 Github pages is a relatively simple way to turn a github repository into a website. This can be great for blogging but there are a couple of setup and configure steps that can trip you up along the way.
 
 ### Getting Your Sub-domain
