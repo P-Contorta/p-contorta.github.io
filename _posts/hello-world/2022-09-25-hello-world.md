@@ -4,7 +4,7 @@ title: "Creating a Blog with Github Pages and Jekyll"
 categories: software how-to blog
 ---
 
-## Hello World - Setting up Your Own Blog
+## Setting up Your Own Blog
 Github pages is a relatively simple way to turn a github repository into a website. This can be great for blogging but there are a couple of setup and configure steps that can trip you up along the way.
 
 ### Getting Your Sub-domain
@@ -96,7 +96,7 @@ categories: meaning-of-life 42 hitch-hikers-guide-to-the-galaxy
 
 ## 6 x 7 = 42
 Maths are hard. Imagine all the different ways we could get the answer 42? 
-`6 x 7 = 42`, `2 x 26 = 42`, `84/2 = 42`. Just wow! 
+`6 x 7 = 42`, `2 x 21 = 42`, `84/2 = 42`. Just wow! 
 
 ```
 
